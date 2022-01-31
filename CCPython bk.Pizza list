@@ -1,0 +1,5 @@
+# this program will list my favorite pizza
+pizza = ['Mushrooms with pepperoni', 'Margherita', 'BBQ chicken']
+for pizza in pizza:
+    print(f"{pizza.title()}, these are Amaka's favorite types of pizza! .\n")
+print("Thanks for participating in our survey!")
